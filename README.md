@@ -1,5 +1,5 @@
 # boss-selenium
-使用python+selenium完成对boss互联网相关岗位的数据爬取，如果对您有所帮助，请对项目进行star鼓励一下作者。
+使用python+selenium完成对boss互联网相关岗位的数据爬取，如果对您有所帮助，请对项目进行star鼓励一下原作者。
 
 作者未及时回复信息，请扫码催促作者
 
